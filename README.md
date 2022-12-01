@@ -5,6 +5,12 @@
 This is a simple application to consume the [Royale api](https://royaleapi.github.io/), get all the CR cards, and display they descriptions.
 This application is created to study how to make tests, pass props through the components, create a functional search input, and create a wonderful and responsive layout without copying anything.
 
+## Preview
+<center>
+  <img src="./.github/screenshot1.png" alt="A preview of the application" />
+</center>
+
+
 ## Techs used
 
 - [React](https://pt-br.reactjs.org)
