@@ -2,7 +2,7 @@ export const colors = {
   common: '#BEB7A4',
   rare: '#E6AF2E',
   epic: '#63326E',
-  legendary: '#E9E3E6',
+  legendary: '#C0C0C0',
   champion: '#F3A738',
   background:'#EFF0D1',
   white: '#E0E2DB',
